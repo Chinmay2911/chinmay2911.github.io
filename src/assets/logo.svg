@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="329" height="200" viewBox="0 0 329 200">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 129.167px;
+        filter: url(#filter);
+        fill: #010101;
+        text-anchor: middle;
+        font-family: "barcode font";
+      }
+    </style>
+    <filter id="filter" x="7" y="39" width="317" height="128" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="7" y="39" width="317" height="128" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMzE3IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDMxNyAxMjgiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iMTEwLjI3MyIgeTE9IjEyOCIgeDI9IjIwNi43MjciIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjI1IiBzdG9wLWNvbG9yPSIjMjZhM2VmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC43NSIgc3RvcC1jb2xvcj0iI2NmMjJiMyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iMzE3IiBoZWlnaHQ9IjEyOCIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <text id="Chinmay_Pradhan" data-name="Chinmay Pradhan" class="cls-1" x="-89" y="39"><tspan x="-89">Chinmay Pradhan</tspan></text>
+</svg>
