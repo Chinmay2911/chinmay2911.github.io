@@ -4,6 +4,6 @@ Status: ![Website](https://img.shields.io/website?down_color=red&down_message=of
 #### Live Demo https://chinmay-pradhan-portfolio.netlify.app/
 #### Inspiration from https://www.figma.com/community/file/1116246660507537002
 
-<img src="/preview.mp4" alt="preview" width="600px" />
+<img src="/preview.gif" alt="preview" width="600px" />
 
 
