@@ -4,4 +4,4 @@
 
 <img src="/preview.gif" alt="preview" width="600px" />
 
-preview badge
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fchinmay-pradhan-portfolio.netlify.app%2F)
