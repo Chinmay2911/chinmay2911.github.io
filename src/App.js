@@ -11,7 +11,7 @@ function App() {
   return (
     <Router>
       <Header />
-      <Particles/>
+      <Particles />
       <AnimatedCursor/>
       <Routes>
         <Route path="/" element={<Home />} />
