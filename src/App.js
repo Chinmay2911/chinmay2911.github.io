@@ -12,7 +12,7 @@ function App() {
     <Router>
       <Header />
       <Particles />
-      <AnimatedCursor/>
+      <AnimatedCursor color='57, 122, 227' />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
