@@ -4,10 +4,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "custom-cursor-react": "^1.0.5",
     "gsap": "^3.10.4",
     "i": "^0.3.7",
     "react": "^18.2.0",
+    "react-animated-cursor": "^2.11.2",
     "react-dom": "^18.2.0",
     "react-particles": "^2.4.0",
     "react-router-dom": "^6.3.0",
