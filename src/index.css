@@ -47,6 +47,6 @@ body::-webkit-scrollbar {
 }
 
 html,body, a{
-  cursor: auto;
+  cursor: none;
 }
 

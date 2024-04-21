@@ -1,5 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Particles from "./Components/ParticlesBackground";
+import CustomCursor from "./Components/CustomCursor"
 import Header from "./Components/Header";
 import Home from "./Pages/Home";
 import About from "./Pages/About";
@@ -11,6 +12,7 @@ function App() {
     <Router>
       <Header />
       <Particles/>
+      <CustomCursor/>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
