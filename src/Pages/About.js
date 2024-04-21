@@ -18,8 +18,12 @@ function About() {
           Work Experience
         </h1><br />
         <Timeline>
-          <Event interval={"June 2022 – Present"} title={"Metaverse Executive"} subtitle={"The Small Big Idea, Mumbai"}>
-            🔹Job profile revolves around proving effective visualizations and reports to enhance business in the Web3 space.<br/>
+          <Event interval={"October 2023 – Present"} title={"Front Desk Associate"} subtitle={"Hampton Inn by Hilton, ON, CA"}>
+            🔹Generated meticulous nightly reports summarizing financial activities and notable events, maintaining accurate records to uphold compliance with company policies and regulations.<br />
+            🔹Diligently reconciled nightly financial transactions, ensuring precision in accounting records and minimizing discrepancies.
+          </Event>
+          <Event interval={"June 2022 – July 2023"} title={"Metaverse Executive"} subtitle={"The Small Big Idea, Mumbai"}>
+            🔹Job profile revolves around proving effective visualizations and reports to enhance business in the Web3 space.<br />
             🔹Developed and managed Web3 based websites for clients which includes framework like Reactjs.<br />
             🔹Managed and handled API and Databases (SQL and MongoDB)
           </Event>
@@ -28,7 +32,7 @@ function About() {
             🔹Analyzed and managed the journeys of entire user-flow for multiple clients.<br />
             🔹Technology used at workplace is Adobe Experience Manager (AEM) for development and Adobe Analytics for reports and visualization of data.
           </Event>
-        </Timeline><br/>
+        </Timeline><br />
 
         <h1 className="text-2xl text-gradient text-dark-heading  md:text-4xl xl:text-5xl xl:leading-tight font-bold">
           Internships
@@ -40,7 +44,7 @@ function About() {
             🔹Delivered insightful dashboards and reports which was used by stakeholder to take decisions. For visualization of data, library named Plotly, software - Tableau was used and for data management and storing Excel.<br />
           </Event>
           <Event interval={"August 2020 – September 2020"} title={"Data Analyst Intern"} subtitle={"KPMG, Mumbai"}>
-            🔹Assigned tasks like Data Cleaning, Plotting of Data, Data Quality Assessment, Insights of Data and Presentation of data.<br/>
+            🔹Assigned tasks like Data Cleaning, Plotting of Data, Data Quality Assessment, Insights of Data and Presentation of data.<br />
             🔹Analyze and provided the outcomes of dataset given technology used for the same was Python and Microsoft Excel.
             🔹Algorithms used in internship were- Linear Regression, Clustering, Decision Tree and Exploratory Data Analysis (EDA)
           </Event>
@@ -51,8 +55,9 @@ function About() {
           Education
         </h1><br />
         <Timeline>
-          <Event interval={"2020 – 2022"} title={"Master of Science in Computer Science"} subtitle={"Somaiya Vidyavihar University"}> </Event>
-          <Event interval={"2017 – 2020"} title={"Bachelor of Science in Computer Science"} subtitle={"University of Mumbai"}></Event>
+          <Event interval={"2023 – 2024"} title={"Master of Science in Big Data Analytics"} subtitle={"Trent University, ON, CA"}> </Event>
+          <Event interval={"2020 – 2022"} title={"Master of Science in Computer Science"} subtitle={"Somaiya Vidyavihar University, IN"}> </Event>
+          <Event interval={"2017 – 2020"} title={"Bachelor of Science in Computer Science"} subtitle={"University of Mumbai, IN"}></Event>
         </Timeline>
       </React.Fragment>
     </main>

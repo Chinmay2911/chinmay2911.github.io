@@ -28,6 +28,7 @@ import powerpoint from "./assets/techstack/PowerPoint.png";
 import plotly from "./assets/techstack/plotly.png";
 import seaborn from "./assets/techstack/seaborn.png";
 import matplotlib from "./assets/techstack/matplotlib.png";
+import typescript from "./assets/techstack/Typescript.png"
 // Project Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
@@ -35,6 +36,7 @@ import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
 import projectImage5 from "./assets/projects/project5.jpg";
 import projectImage6 from "./assets/projects/project6.jpg";
+import projectImage7 from "./assets/projects/project7.jpg";
 
 
 // Logos
@@ -64,15 +66,14 @@ export const personalDetails = {
   }}
   />,
   img: profile,
-  about: `Experienced Associate Developer with a demonstrated history of working in the information technology and services industry. Skilled in Data Visualization, Python, Business Intelligence, R, and Algorithms. Strong engineering professional with a Master of Science focused in Computer Science from Somaiya Vidyavihar.`,
+  about: `Experienced Associate Developer with a demonstrated history of working in the information technology and services industry. Skilled in Data Visualization, Python, Business Intelligence, R, and Algorithms. Strong engineering professional with a Master of Science focused in Big Data Analytics from Trent University.`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
   linkdein: "https://www.linkedin.com/in/chinmaypradhan2911",
   github: "https://www.github.com/Chinmay2911",
-  twitter: "https://twitter.com/Chinmayp29",
-  instagram: "https://www.instagram.com/_chinmay_p_",
+  twitter: "https://twitter.com/Chinmayp29"
 };
 
 
@@ -100,10 +101,19 @@ export const techStackDetails = {
   plotly:plotly,
   seaborn:seaborn,
   matplotlib:matplotlib,
+  typescript:typescript,
 };
 
 // Enter your Project Details here
 export const projectDetails = [
+  {
+    title: "Tensorflow vs BigQuery",
+    image: projectImage7,
+    description: `The objective of this project is to comprehensively assess and contrast two prominent big data solutions, namely TensorFlow and Google BigQuery.`,
+    techstack: "Python, Tensorflow, Google Big Query",
+    previewLink: "https://tensorflowvsbigquery.netlify.app/",
+    githubLink: "https://github.com/Chinmay2911/TFvsBQProject",
+  },
   {
     title: "Chatbot Data Analysis",
     image: projectImage1,
@@ -154,8 +164,7 @@ export const projectDetails = [
   },
 ];
 
-// Enter your Contact Details here
+//Contact Details here
 export const contactDetails = {
-  email: "chinmay29pradhan@gmail.com",
-  phone: "+91 7977210415",
+  email: "chinmayrpradhan@gmail.com",
 };

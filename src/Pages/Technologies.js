@@ -25,6 +25,7 @@ function Technologies() {
     plotly,
     seaborn,
     matplotlib,
+    typescript,
   } = techStackDetails;
   return (
     <main className="container mx-auto max-width pt-10 pb-20 ">
@@ -41,6 +42,7 @@ function Technologies() {
         <img src={js} title="JavaScript" alt="" />
         <img src={react} title="React" alt="" />
         <img src={vue} title="Vue.js" alt="" />
+        <img src={typescript} title="Vue.js" alt="" />
         <img src={html} title="html" alt="" />
         <img src={css} title="CSS" alt="" />
       </section>

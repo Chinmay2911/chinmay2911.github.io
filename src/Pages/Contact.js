@@ -11,7 +11,7 @@ function Contact() {
       <h3 className="text-center text-1xl md:text-4xl lg:text-4xl text-gradient font-semibold md:font-bold pt-5 md:pt-10 md:pb-6">
         <a href={`mailto:${email}`}>{email}</a>
       </h3>
-      <span className="text-center text-content text-1xl font-light block">or</span>
+      {/* <span className="text-center text-content text-1xl font-light block">or</span>
       <h3 className="text-center text-2xl md:text-4xl lg:text-4xl text-gradient font-semibold md:font-bold pt-2 md:py-6">
         <a href={`tel:${phone}`}>{phone}</a>
       </h3>
@@ -20,7 +20,7 @@ function Contact() {
         <a href="./assets/techstack/seaborn.png" download="Chinmay's Resume" target='_blank'>
           <button className="font-semibold md:font-bold pt-2 md:py-6" type="button">Download Resume</button>
         </a>
-      </h3>
+      </h3> */}
     </main>
   );
 }
