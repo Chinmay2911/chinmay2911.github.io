@@ -12,7 +12,7 @@ function Header() {
   return (
     <header className="container mx-auto md:flex justify-between py-2 max-width">
       <div className="flex justify-between items-center py-2 md:py-10">
-        <NavLink to="/">
+        <NavLink to="/portfolio">
           <img className="w-14" src={logos.logogradient} alt="logo" />
         </NavLink>
         <div onClick={toggleClass} className="cursor-pointer">
@@ -36,7 +36,7 @@ function Header() {
       <nav className={` ${!isOpen ? "hidden" : null} text-center md:flex justify-between`}>
         <ul className="font-medium md:flex items-center md:space-x-5 md:mr-10">
           <li className="pb-1 md:pb-0">
-            <NavLink to="/" onClick={toggleClass}>
+            <NavLink to="/portfolio" onClick={toggleClass}>
               Home
             </NavLink>
           </li>
